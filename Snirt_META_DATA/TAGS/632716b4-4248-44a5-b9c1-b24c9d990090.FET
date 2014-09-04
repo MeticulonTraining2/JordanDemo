@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>632716b4-4248-44a5-b9c1-b24c9d990090</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>test1.docx</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\Admin\Documents\Snirt\JordanDemo</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>List</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>9ce4be2d-af4a-487c-aba5-eabc83ec70b1</guid>
+    <guid>98013b0e-7a74-4d93-a0e9-efec5289b9e7</guid>
+    <guid>4186bafd-9964-4efc-90bf-59184dacbfe5</guid>
+    <guid>243ed981-46c3-44fa-8578-4b6ceb95cd81</guid>
+    <guid>19be1af9-9487-4acd-96ce-fc07932d2d00</guid>
+    <guid>d50a4d78-8e28-42ea-918f-6963cb6c899a</guid>
+    <guid>9968cfab-0a76-4bee-9fd8-8870b1df1049</guid>
+    <guid>f3c3960d-52d5-4209-b4c0-d2bf0a04d89a</guid>
+  </Tags>
+</FolderEntryTags>
