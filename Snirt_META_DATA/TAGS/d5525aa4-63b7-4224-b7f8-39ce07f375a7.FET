@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>d5525aa4-63b7-4224-b7f8-39ce07f375a7</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>test1h.docx</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\Admin\Documents\Snirt\JordanDemo</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>3ad469d9-3888-4d6b-b742-edf546ef77ee</guid>
+    <guid>b32552cc-254c-4a87-9696-ac4052cd47f0</guid>
+  </Tags>
+</FolderEntryTags>
